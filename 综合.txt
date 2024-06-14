@@ -95,6 +95,19 @@ CCTV-15音乐,http://221.216.132.178:8118/rtp/239.3.1.153:8136
 CCTV-16奥林匹克频道,http://221.216.132.178:8118/rtp/239.3.1.184:8001
 CCTV-17农业农村,http://221.216.132.178:8118/rtp/239.3.1.151:8144
 
+轮播,#genre#
+
+老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
+铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
+地下交通站,http://b.huangfeiyan.top:35455/huya/11342433
+爱情公寓,http://b.huangfeiyan.top:35455/huya/11336726
+搞笑一家人,http://b.huangfeiyan.top:35455/huya/11342402
+康熙微服私访记,http://b.huangfeiyan.top:35455/huya/11342418
+家有儿女,http://b.huangfeiyan.top:35455/huya/29915635
+神探狄仁杰,http://b.huangfeiyan.top:35455/huya/11342425
+许三多,http://b.huangfeiyan.top:35455/douyu/11651155
+虎牙影院,http://b.huangfeiyan.top:35455/huya/11601968
+
 卫视频道,#genre#
 
 湖南卫视,http://222.128.86.76:8133/rtp/239.3.1.132:8012
