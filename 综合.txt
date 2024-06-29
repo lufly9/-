@@ -115,8 +115,6 @@ CCTV-16奥林匹克频道,http://221.216.132.178:8118/rtp/239.3.1.184:8001
 CCTV-17农业农村,http://221.216.132.178:8118/rtp/239.3.1.151:8144
 
 轮播,#genre#
-轮播,#genre#
-
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 地下交通站,http://cfss.cc/cdn/hy/11342433.flv
 李卫当官,http://cfss.cc/cdn/hy/26355788.flv
