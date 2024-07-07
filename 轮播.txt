@@ -6,7 +6,7 @@
 咪咕直播56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 轮播,#genre#
-许三多,http://maomao.kandiantv.cn/douyu1.php?id=11651155
+许三多,http://maomao.kandiantv.cn/douyu1.php?id=10348728
 滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
 老高与小茉,http://maomao.kandiantv.cn/douyu1.php?id=236461
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
@@ -28,7 +28,7 @@
 动物世界慢观察,http://cfss.cc/cdn/hy/25567644.flv
 
 老高与小茉,https://goodiptv.club/douyu/236461
-许三多,https://goodiptv.club/douyu/11651155
+许三多,https://goodiptv.club/douyu/10348728
 滇西小哥,https://goodiptv.club/douyu/3243427
 铁齿铜牙纪晓岚,https://goodiptv.club/huya/11342396
 地下交通站,https://goodiptv.club/huya/11342433
@@ -48,7 +48,7 @@
 动物世界佳佳,https://goodiptv.club/huya/25749030
 动物世界慢观察,https://goodiptv.club/huya/25567644
 
-许三多,http://b.huangfeiyan.top:35455/douyu/11651155
+许三多,http://b.huangfeiyan.top:35455/douyu/10348728
 滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
 老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
 铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
