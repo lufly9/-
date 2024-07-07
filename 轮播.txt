@@ -6,6 +6,9 @@
 咪咕直播56,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 轮播,#genre#
+许三多,http://maomao.kandiantv.cn/douyu1.php?id=11651155
+滇西小哥,http://maomao.kandiantv.cn/douyu1.php?id=3243427
+老高与小茉,http://maomao.kandiantv.cn/douyu1.php?id=236461
 铁齿铜牙纪晓岚,http://cfss.cc/cdn/hy/11342396.flv
 地下交通站,http://cfss.cc/cdn/hy/11342433.flv
 李卫当官,http://cfss.cc/cdn/hy/26355788.flv
@@ -14,19 +17,19 @@
 康熙微服私访记,http://cfss.cc/cdn/hy/11342418.flv
 家有儿女,http://cfss.cc/cdn/hy/29915635.flv
 神探狄仁杰,http://cfss.cc/cdn/hy/11342425.flv
-许三多,https://goodiptv.club/douyu/11651155
-滇西小哥,https://goodiptv.club/douyu/3243427
 李子柒,http://cfss.cc/cdn/hy/21969336.flv
 密子君,http://cfss.cc/cdn/hy/21140922.flv
 花都兄弟,http://cfss.cc/cdn/hy/23859902.flv
 周星星,http://cfss.cc/cdn/hy/11342412.flv
-老高与小茉,https://goodiptv.club/douyu/236461
 林正英,http://cfss.cc/cdn/hy/11342421.flv
 虎牙影院,http://cfss.cc/cdn/hy/11601968.flv
 动物世界记录,http://cfss.cc/cdn/hy/29886283.flv
 动物世界佳佳,http://cfss.cc/cdn/hy/25749030.flv
 动物世界慢观察,http://cfss.cc/cdn/hy/25567644.flv
 
+老高与小茉,https://goodiptv.club/douyu/236461
+许三多,https://goodiptv.club/douyu/11651155
+滇西小哥,https://goodiptv.club/douyu/3243427
 铁齿铜牙纪晓岚,https://goodiptv.club/huya/11342396
 地下交通站,https://goodiptv.club/huya/11342433
 李卫当官,https://goodiptv.club/huya/26355788
@@ -45,6 +48,9 @@
 动物世界佳佳,https://goodiptv.club/huya/25749030
 动物世界慢观察,https://goodiptv.club/huya/25567644
 
+许三多,http://b.huangfeiyan.top:35455/douyu/11651155
+滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
+老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
 铁齿铜牙纪晓岚,http://b.huangfeiyan.top:35455/huya/11342396
 地下交通站,http://b.huangfeiyan.top:35455/huya/11342433
 李卫当官,http://b.huangfeiyan.top:35455/huya/26355788
@@ -53,8 +59,6 @@
 康熙微服私访记,http://b.huangfeiyan.top:35455/huya/11342418
 家有儿女,http://b.huangfeiyan.top:35455/huya/29915635
 神探狄仁杰,http://b.huangfeiyan.top:35455/huya/11342425
-许三多,http://b.huangfeiyan.top:35455/douyu/11651155
-滇西小哥,http://b.huangfeiyan.top:35455/douyu/3243427
 李子柒,http://b.huangfeiyan.top:35455/huya/21969336
 密子君,http://b.huangfeiyan.top:35455/huya/21140922
 花都兄弟,http://b.huangfeiyan.top:35455/huya/23859902
@@ -64,4 +68,3 @@
 动物世界记录,http://b.huangfeiyan.top:35455/huya/29886283
 动物世界佳佳,http://b.huangfeiyan.top:35455/huya/25749030
 动物世界慢观察,http://b.huangfeiyan.top:35455/huya/25567644
-老高与小茉,http://b.huangfeiyan.top:35455/douyu/236461
